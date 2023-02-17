@@ -1,0 +1,16 @@
+[
+{
+		"name": "Nude Dude",
+		"unitType": "Atomic Bomber",
+		"movement": 100,
+		"strength": 950,
+		"cost": 2,
+		"requiredTech": "Agriculture",
+		"promotions" : ["Morale"],
+		"uniques": ["Only available <if [Monument] is constructed> [in this city]"],
+		"attackSound": "nuke"
+	},
+
+
+
+]
