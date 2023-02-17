@@ -1,7 +1,7 @@
 [
 {
 		"name": "Nude Dude",
-		"unitType": "Atomic Bomber",
+		"unitType": "Sword",
 		"movement": 10,
 		"strength": 950,
 		"cost": 2,
@@ -9,8 +9,5 @@
 		"promotions" : ["Morale"],
 		"uniques": ["Only available <if [Monument] is constructed> [in this city]"],
 		"attackSound": "nuke"
-	},
-
-
-
+	}
 ]
