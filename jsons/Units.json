@@ -9,5 +9,5 @@
 		"promotions" : ["Morale"],
 		"uniques": ["Only available <if [Monument] is constructed>"],
 		"attackSound": "nuke"
-	}
+	},
 ]
