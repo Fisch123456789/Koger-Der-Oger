@@ -7,7 +7,7 @@
 		"cost": 2,
 		"requiredTech": "Agriculture",
 		"promotions" : ["Morale"],
-		"uniques": ["Only available <if [Monument] is constructed>"],
+		"uniques": ["Only available <if [Monument] is constructed> [in this city]"],
 		"attackSound": "nuke"
 	},
 ]
